@@ -4,19 +4,19 @@
 
 目前開源了一些專案作為學習數位電路的借鏡，以下是我自豪的作品：
 
-* ASIC 
+* ASIC: 
 [single core CPU](https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Final_Project)
 
-* SOC
+* SOC:
 [FSIC Design](https://github.com/kevin861222/112_SOC_final_project)
 
-* Memory controller
+* Memory controller:
 [SDRAM controller](https://github.com/kevin861222/SOC-Lab-D-SDRAM)
 
-* ML Accelerator
+* ML Accelerator:
 [4x4TPU](https://github.com/kevin861222/general-purpose-4x4-TPU)
 
-* FPGA 
+* FPGA: 
 [AAML final prof](https://github.com/kevin861222/AAML-final-project)
 
 <!--
