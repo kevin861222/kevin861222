@@ -17,7 +17,7 @@
 [4x4TPU](https://github.com/kevin861222/general-purpose-4x4-TPU)
 
 * FPGA: 
-[AAML final prof](https://github.com/kevin861222/AAML-final-project)
+[AAML final proj](https://github.com/kevin861222/AAML-final-project)
 
 <!--
 **kevin861222/kevin861222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
