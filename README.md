@@ -10,7 +10,7 @@
 目前開源了一些專案作為學習數位電路的借鏡，以下是我自豪的作品：
 
 * ASIC: 
-[single core CPU with domain specific IP](https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Final_Project)
+[Single core CPU with domain specific IP](https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Final_Project)
 
 * SOC:
 [FSIC Design](https://github.com/kevin861222/112_SOC_final_project)
@@ -19,7 +19,7 @@
 [SDRAM controller](https://github.com/kevin861222/SOC-Lab-D-SDRAM)
 
 * ML Accelerator:
-[4x4TPU](https://github.com/kevin861222/general-purpose-4x4-TPU), [Bit-serial-CIM-Convolution-IP](https://github.com/kevin861222/bit-serial-CIM-Convolution-IP)
+[4x4 TPU](https://github.com/kevin861222/general-purpose-4x4-TPU), [Bit-serial-CIM-Convolution-IP](https://github.com/kevin861222/bit-serial-CIM-Convolution-IP)
 
 * FPGA: 
 [AAML final proj](https://github.com/kevin861222/AAML-final-project)
