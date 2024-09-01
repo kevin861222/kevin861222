@@ -10,7 +10,7 @@
 目前開源了一些專案作為學習數位電路的借鏡，以下是我自豪的作品：
 
 * ASIC: 
-[single core CPU](https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Final_Project)
+[single core CPU with domain specific IP](https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Final_Project)
 
 * SOC:
 [FSIC Design](https://github.com/kevin861222/112_SOC_final_project)
