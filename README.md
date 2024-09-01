@@ -21,6 +21,8 @@
 * ML Accelerator:
 [4x4TPU](https://github.com/kevin861222/general-purpose-4x4-TPU)
 
+[bit-serial-CIM-Convolution-IP](https://github.com/kevin861222/bit-serial-CIM-Convolution-IP)
+
 * FPGA: 
 [AAML final proj](https://github.com/kevin861222/AAML-final-project)
 
