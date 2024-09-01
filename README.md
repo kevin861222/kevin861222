@@ -5,7 +5,7 @@
 |[![Anurag's GitHub stats](https://github-readme-stats-eight-beta-67.vercel.app/api?username=kevin861222&show_icons=true&theme=light&card_width=320\&include_all_commits=true\&show=reviews,prs_merged\&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-eight-beta-67.vercel.app/api/top-langs/?username=kevin861222&theme=transparent&layout=compact&langs_count=12&card_width=320&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)|
 
 
-我是王語，一個交通大學研究生，我的專長是 Verilog 與 Python 。
+我是王語，一個交通大學研究生，我的專長是數位電路設計，具備高熟練度的 Verilog 與 Python 。
 
 目前開源了一些專案作為學習數位電路的借鏡，以下是我自豪的作品：
 
