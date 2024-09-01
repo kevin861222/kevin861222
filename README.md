@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+|Github State|Skills|Top Language|
+|:-:|:-:|:-:|
+|[![Anurag's GitHub stats](https://github-readme-stats-eight-beta-67.vercel.app/api?username=Shiritai&show_icons=true&theme=dark&card_width=320\&include_all_commits=true\&show=reviews,prs_merged\&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)|[![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,java,python,v,scala,rust,react,svelte,graphql,prisma,firebase,tailwindcss,vscode,docker&perline=4)](https://skillicons.dev)|[![Top Langs](https://github-readme-stats-eight-beta-67.vercel.app/api/top-langs/?username=Shiritai&theme=transparent&layout=compact&langs_count=12&card_width=320&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)|
+
+
 我是王語，一個交通大學研究生，我的專長是 Verilog 與 Python 。
 
 目前開源了一些專案作為學習數位電路的借鏡，以下是我自豪的作品：
