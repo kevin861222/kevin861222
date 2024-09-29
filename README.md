@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <p align="center">
 <a href="https://github.com/mirkat1206">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Education+%7C+NYCU+Master+degree;Skill+%7C+ASIC Design" alt="Typing SVG" />
